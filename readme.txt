@@ -1,0 +1,3 @@
+TWO_FILE_COMMANDLINE
+
+cmake  -DCMAKE_BUILD_TYPE=Debug -DCMAKE_INSTALL_PREFIX=../../jpeg-out ..

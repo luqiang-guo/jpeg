@@ -1,0 +1,152 @@
+test decoder file ./jpeg/0.JPEG, ./jpeg/0.ppm, ./jpeg/partial_0.ppm 
+Input: Read 57727/57727 bytes 
+./jpeg/0.JPEG :w =  615 , h =  461 
+all decoder time = 2.727178 us, 11733.740234 FPS 
+crop x = 90, y = 68, w = 434, h = 325 
+partial  decoder time = 1.715585 us 18652.529297 FPS 
+Partial increase of 58.964908 %. 
+615 * 461 | 434 * 325 | 11733.740234 fps, 18652.529297 fps, 58.964908 % 
+test decoder file ./jpeg/1.JPEG, ./jpeg/1.ppm, ./jpeg/partial_1.ppm 
+Input: Read 151696/151696 bytes 
+./jpeg/1.JPEG :w =  500 , h =  375 
+all decoder time = 2.623916 us, 12195.512695 FPS 
+crop x = 73, y = 55, w = 353, h = 265 
+partial  decoder time = 1.958634 us 16337.916992 FPS 
+Partial increase of 33.966625 %. 
+500 * 375 | 353 * 265 | 12195.512695 fps, 16337.916992 fps, 33.966625 % 
+test decoder file ./jpeg/2.JPEG, ./jpeg/2.ppm, ./jpeg/partial_2.ppm 
+Input: Read 105588/105588 bytes 
+./jpeg/2.JPEG :w =  500 , h =  375 
+all decoder time = 2.061700 us, 15521.170898 FPS 
+crop x = 73, y = 55, w = 353, h = 265 
+partial  decoder time = 1.561845 us 20488.589844 FPS 
+Partial increase of 32.004154 %. 
+500 * 375 | 353 * 265 | 15521.170898 fps, 20488.589844 fps, 32.004154 % 
+test decoder file ./jpeg/3.JPEG, ./jpeg/3.ppm, ./jpeg/partial_3.ppm 
+Input: Read 177655/177655 bytes 
+./jpeg/3.JPEG :w =  500 , h =  416 
+all decoder time = 2.766358 us, 11567.555664 FPS 
+crop x = 73, y = 61, w = 353, h = 294 
+partial  decoder time = 2.139612 us 14955.983398 FPS 
+Partial increase of 29.292512 %. 
+500 * 416 | 353 * 294 | 11567.555664 fps, 14955.983398 fps, 29.292512 % 
+test decoder file ./jpeg/4.JPEG, ./jpeg/4.ppm, ./jpeg/partial_4.ppm 
+Input: Read 175693/175693 bytes 
+./jpeg/4.JPEG :w =  500 , h =  464 
+all decoder time = 2.958815 us, 10815.140625 FPS 
+crop x = 73, y = 68, w = 353, h = 328 
+partial  decoder time = 2.220482 us 14411.285156 FPS 
+Partial increase of 33.251023 %. 
+500 * 464 | 353 * 328 | 10815.140625 fps, 14411.285156 fps, 33.251023 % 
+test decoder file ./jpeg/5.JPEG, ./jpeg/5.ppm, ./jpeg/partial_5.ppm 
+Input: Read 175460/175460 bytes 
+./jpeg/5.JPEG :w =  500 , h =  334 
+all decoder time = 2.477541 us, 12916.032227 FPS 
+crop x = 73, y = 49, w = 353, h = 236 
+partial  decoder time = 1.887385 us 16954.675781 FPS 
+Partial increase of 31.268454 %. 
+500 * 334 | 353 * 236 | 12916.032227 fps, 16954.675781 fps, 31.268454 % 
+test decoder file ./jpeg/6.JPEG, ./jpeg/6.ppm, ./jpeg/partial_6.ppm 
+Input: Read 233779/233779 bytes 
+./jpeg/6.JPEG :w =  372 , h =  500 
+all decoder time = 3.594328 us, 8902.916016 FPS 
+crop x = 54, y = 73, w = 263, h = 353 
+partial  decoder time = 2.755222 us 11614.308594 FPS 
+Partial increase of 30.455112 %. 
+372 * 500 | 263 * 353 | 8902.916016 fps, 11614.308594 fps, 30.455112 % 
+test decoder file ./jpeg/7.JPEG, ./jpeg/7.ppm, ./jpeg/partial_7.ppm 
+Input: Read 121901/121901 bytes 
+./jpeg/7.JPEG :w =  500 , h =  333 
+all decoder time = 2.115347 us, 15127.541992 FPS 
+crop x = 73, y = 49, w = 353, h = 235 
+partial  decoder time = 1.623090 us 19715.480469 FPS 
+Partial increase of 30.328381 %. 
+500 * 333 | 353 * 235 | 15127.541992 fps, 19715.480469 fps, 30.328381 % 
+test decoder file ./jpeg/8.JPEG, ./jpeg/8.ppm, ./jpeg/partial_8.ppm 
+Input: Read 153765/153765 bytes 
+./jpeg/8.JPEG :w =  412 , h =  500 
+all decoder time = 2.590671 us, 12352.011719 FPS 
+crop x = 60, y = 73, w = 291, h = 353 
+partial  decoder time = 2.019198 us 15847.876953 FPS 
+Partial increase of 28.301990 %. 
+412 * 500 | 291 * 353 | 12352.011719 fps, 15847.876953 fps, 28.301990 % 
+test decoder file ./jpeg/9.JPEG, ./jpeg/9.ppm, ./jpeg/partial_9.ppm 
+Input: Read 643364/643364 bytes 
+./jpeg/9.JPEG :w =  4048 , h =  3040 
+all decoder time = 46.988609 us, 681.016113 FPS 
+crop x = 593, y = 445, w = 2862, h = 2149 
+partial  decoder time = 25.768347 us 1241.833618 FPS 
+Partial increase of 82.350111 %. 
+4048 * 3040 | 2862 * 2149 | 681.016113 fps, 1241.833618 fps, 82.350111 % 
+test decoder file ./jpeg/10.JPEG, ./jpeg/10.ppm, ./jpeg/partial_10.ppm 
+Input: Read 96388/96388 bytes 
+./jpeg/10.JPEG :w =  500 , h =  475 
+all decoder time = 2.658937 us, 12034.884766 FPS 
+crop x = 73, y = 70, w = 353, h = 335 
+partial  decoder time = 1.617886 us 19778.896484 FPS 
+Partial increase of 64.346373 %. 
+500 * 475 | 353 * 335 | 12034.884766 fps, 19778.896484 fps, 64.346373 % 
+test decoder file ./jpeg/11.JPEG, ./jpeg/11.ppm, ./jpeg/partial_11.ppm 
+Input: Read 119949/119949 bytes 
+./jpeg/11.JPEG :w =  440 , h =  500 
+all decoder time = 2.288077 us, 13985.542969 FPS 
+crop x = 64, y = 73, w = 311, h = 353 
+partial  decoder time = 1.753968 us 18244.345703 FPS 
+Partial increase of 30.451465 %. 
+440 * 500 | 311 * 353 | 13985.542969 fps, 18244.345703 fps, 30.451465 % 
+test decoder file ./jpeg/12.JPEG, ./jpeg/12.ppm, ./jpeg/partial_12.ppm 
+Input: Read 204211/204211 bytes 
+./jpeg/12.JPEG :w =  439 , h =  500 
+all decoder time = 3.430067 us, 9329.263672 FPS 
+crop x = 64, y = 73, w = 310, h = 353 
+partial  decoder time = 2.612753 us 12247.618164 FPS 
+Partial increase of 31.281722 %. 
+439 * 500 | 310 * 353 | 9329.263672 fps, 12247.618164 fps, 31.281722 % 
+test decoder file ./jpeg/13.JPEG, ./jpeg/13.ppm, ./jpeg/partial_13.ppm 
+Input: Read 209028/209028 bytes 
+./jpeg/13.JPEG :w =  500 , h =  384 
+all decoder time = 3.314361 us, 9654.953125 FPS 
+crop x = 73, y = 56, w = 353, h = 271 
+partial  decoder time = 2.412566 us 13263.885742 FPS 
+Partial increase of 37.379074 %. 
+500 * 384 | 353 * 271 | 9654.953125 fps, 13263.885742 fps, 37.379074 % 
+test decoder file ./jpeg/14.JPEG, ./jpeg/14.ppm, ./jpeg/partial_14.ppm 
+Input: Read 157679/157679 bytes 
+./jpeg/14.JPEG :w =  500 , h =  334 
+all decoder time = 2.600023 us, 12307.583008 FPS 
+crop x = 73, y = 49, w = 353, h = 236 
+partial  decoder time = 1.933968 us 16546.292969 FPS 
+Partial increase of 34.439826 %. 
+500 * 334 | 353 * 236 | 12307.583008 fps, 16546.292969 fps, 34.439826 % 
+test decoder file ./jpeg/15.JPEG, ./jpeg/15.ppm, ./jpeg/partial_15.ppm 
+Input: Read 195534/195534 bytes 
+./jpeg/15.JPEG :w =  375 , h =  500 
+all decoder time = 3.135294 us, 10206.379883 FPS 
+crop x = 55, y = 73, w = 265, h = 353 
+partial  decoder time = 2.271083 us 14090.193359 FPS 
+Partial increase of 38.052797 %. 
+375 * 500 | 265 * 353 | 10206.379883 fps, 14090.193359 fps, 38.052797 % 
+test decoder file ./jpeg/16.JPEG, ./jpeg/16.ppm, ./jpeg/partial_16.ppm 
+Input: Read 146785/146785 bytes 
+./jpeg/16.JPEG :w =  500 , h =  375 
+all decoder time = 2.684111 us, 11922.009766 FPS 
+crop x = 73, y = 55, w = 353, h = 265 
+partial  decoder time = 1.897008 us 16868.669922 FPS 
+Partial increase of 41.491830 %. 
+500 * 375 | 353 * 265 | 11922.009766 fps, 16868.669922 fps, 41.491830 % 
+test decoder file ./jpeg/17.JPEG, ./jpeg/17.ppm, ./jpeg/partial_17.ppm 
+Input: Read 119045/119045 bytes 
+./jpeg/17.JPEG :w =  500 , h =  375 
+all decoder time = 2.309075 us, 13858.362305 FPS 
+crop x = 73, y = 55, w = 353, h = 265 
+partial  decoder time = 1.974543 us 16206.282227 FPS 
+Partial increase of 16.942263 %. 
+500 * 375 | 353 * 265 | 13858.362305 fps, 16206.282227 fps, 16.942263 % 
+test decoder file ./jpeg/18.JPEG, ./jpeg/18.ppm, ./jpeg/partial_18.ppm 
+Input: Read 193054/193054 bytes 
+./jpeg/18.JPEG :w =  388 , h =  500 
+all decoder time = 3.220957 us, 9934.935547 FPS 
+crop x = 57, y = 73, w = 274, h = 353 
+partial  decoder time = 2.449110 us 13065.970703 FPS 
+Partial increase of 31.515408 %. 
+388 * 500 | 274 * 353 | 9934.935547 fps, 13065.970703 fps, 31.515408 % 
